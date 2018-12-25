@@ -1,8 +1,8 @@
 # ofxEliminateMacros
 
-ofxEliminateMacros.h eliminate macros about ofMathConstants.h.
+ofxEliminateMacros.h eliminates macros about ofMathConstants.h.
 
-ofxReplaceMacros.h replace macros about ofMathConstants.h to constexpr.
+ofxReplaceMacros.h replaces macros about ofMathConstants.h to constexpr.
 
 
 
